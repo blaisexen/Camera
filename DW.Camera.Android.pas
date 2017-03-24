@@ -258,6 +258,7 @@ end;
 
 destructor TCameraCaptureSession.Destroy;
 begin
+  FPreviewControl.Free;
   StopThread;
   inherited;
 end;
