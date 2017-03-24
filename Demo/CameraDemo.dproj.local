@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/25 10:02:17.000.274,=S:\DelphiWorlds\Applications\Default\Unit1.pas</Transaction>
+    <Transaction>2017/03/03 11:54:47.000.054,=S:\DelphiWorlds\Applications\Default\Unit1.pas</Transaction>
+    <Transaction>2017/03/03 11:55:06.000.949,S:\DelphiWorlds\Applications\Default\Unit1.fmx=S:\DelphiWorlds\Research\AndroidCamera\Unit1.fmx</Transaction>
+    <Transaction>2017/03/03 11:55:06.000.949,S:\DelphiWorlds\Applications\Default\Unit1.pas=S:\DelphiWorlds\Research\AndroidCamera\Unit1.pas</Transaction>
+    <Transaction>2017/03/03 11:55:22.000.083,S:\DelphiWorlds\Applications\Default\Project2.dproj=S:\DelphiWorlds\Research\AndroidCamera\AndroidCameraTest.dproj</Transaction>
+    <Transaction>2017/03/03 11:58:50.000.190,=S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas</Transaction>
+    <Transaction>2017/03/03 11:59:25.000.777,S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas=S:\DelphiWorlds\DeCAL\Camera\DW.Camera.Android.pas</Transaction>
+    <Transaction>2017/03/03 11:59:31.000.183,=S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas</Transaction>
+    <Transaction>2017/03/03 11:59:52.000.724,S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas=S:\DelphiWorlds\DeCAL\Camera\DW.Camera.pas</Transaction>
+    <Transaction>2017/03/03 12:00:30.000.850,=S:\DelphiWorlds\DeCAL\Core\DW.Androidapi.JNI.Camera2.pas</Transaction>
+    <Transaction>2017/03/03 13:56:14.000.709,=S:\DelphiWorlds\DeCAL\Camera\DW.Androidapi.JNI.CameraCallbacks.pas</Transaction>
+    <Transaction>2017/03/03 15:55:01.000.566,=S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas</Transaction>
+    <Transaction>2017/03/03 15:55:28.000.245,S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas=S:\DelphiWorlds\DeCAL\Core\DW.Androidapi.JNI.Os.pas</Transaction>
+    <Transaction>2017/03/03 15:55:53.000.074,S:\DelphiWorlds\DeCAL\Core\DW.Androidapi.JNI.Os.pas=S:\DelphiWorlds\DeCAL\Core\DW.Androidapi.JNI.JavaTypes.pas</Transaction>
+    <Transaction>2017/03/03 15:58:00.000.970,S:\DelphiWorlds\DeCAL\Core\DW.Androidapi.JNI.JavaTypes.pas=S:\DelphiWorlds\DeCAL\Core\DW.Androidapi.JNI.Os.pas</Transaction>
+    <Transaction>2017/03/05 17:14:00.000.170,=S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas</Transaction>
+    <Transaction>2017/03/05 17:14:24.000.462,S:\DelphiWorlds\DeCAL\Camera\DW.CameraPreview.Android.pas=S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas</Transaction>
+    <Transaction>2017/03/05 17:16:55.000.102,=S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas</Transaction>
+    <Transaction>2017/03/05 17:17:15.000.358,S:\DelphiWorlds\DeCAL\Camera\DW.BaseCameraPreview.pas=S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas</Transaction>
+    <Transaction>2017/03/05 19:30:11.000.838,=S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas</Transaction>
+    <Transaction>2017/03/05 19:30:24.000.962,S:\DelphiWorlds\DeCAL\Camera\DW.CameraPreview.pas=S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas</Transaction>
+    <Transaction>2017/03/05 19:58:30.000.568,=S:\DelphiWorlds\DeCAL\Camera\Android\dw-camera.jar</Transaction>
+    <Transaction>2017/03/23 11:47:54.000.312,S:\DelphiWorlds\DeCAL\Camera\DW.Androidapi.JNI.CameraHelpers.pas=S:\DelphiWorlds\DeCAL\Camera\DW.Androidapi.JNI.CameraCallbacks.pas</Transaction>
+    <Transaction>2017/03/23 13:26:51.000.172,=S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas</Transaction>
+    <Transaction>2017/03/23 13:27:10.000.277,S:\DelphiWorlds\DeCAF\Core\DW.Helpers.Android.pas=S:\DelphiWorlds\Research\AndroidCamera\Unit2.pas</Transaction>
+    <Transaction>2017/03/24 11:08:37.000.715,S:\DelphiWorlds\Research\AndroidCamera\AndroidCameraTest.dproj=S:\DelphiWorlds\Research\AndroidCamera\CameraDemo.dproj</Transaction>
+    <Transaction>2017/03/24 11:15:30.323,=S:\DelphiWorlds\Public\Camera\Jar\dw-camera.jar</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMac iOSSimulator="_iossimulator_58380E49-F91D-487E-881E-FCA895E6301B" iOSDevice64="_iosdevice_477589baec3af3c8629dfe8f44df5c40476c884d" iOSDevice32="_iosdevice_477589baec3af3c8629dfe8f44df5c40476c884d"/>
+		<NoProfile Android="01eaba1eaeaa92b1"/>
+	</ActiveMobileDevice>
+</BorlandProject>
