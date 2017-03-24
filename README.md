@@ -7,6 +7,8 @@ Usage:
 
   Documentation is coming. Examine the demo project
 
+  Prior to building the demo (or a project that you include Camera support), you will need to run BuildJar.bat, to build the jar, which will then need to be added to the project in the Libraries node under Android in the Target Platforms list in the Project Manager. You will likely need to modify BuildJar.bat to suit your environment
+
 
 Reporting issues:
 
