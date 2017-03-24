@@ -300,10 +300,7 @@ end;
 
 procedure TCameraCaptureSession.StartSession;
 var
-  LSurfaceTexture: JSurfaceTexture;
-  LSurface: JSurface;
   LOutputs: JArrayList;
-  LPreviewSize: TPoint;
 begin
   if FPreviewControl.ParentControl = nil then
     Exit; // <======
